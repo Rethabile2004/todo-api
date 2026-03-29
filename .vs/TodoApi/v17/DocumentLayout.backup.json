@@ -1,12 +1,103 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\erick\\Downloads\\Personal\\ASP.NET Core MVC\\TodoApi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF556150-2618-4BDF-A3BF-329E0DF7A064}|TodoApi\\TodoApi.csproj|c:\\users\\erick\\downloads\\personal\\asp.net core mvc\\todoapi\\todoapi\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF556150-2618-4BDF-A3BF-329E0DF7A064}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF556150-2618-4BDF-A3BF-329E0DF7A064}|TodoApi\\TodoApi.csproj|c:\\users\\erick\\downloads\\personal\\asp.net core mvc\\todoapi\\todoapi\\todoapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{AF556150-2618-4BDF-A3BF-329E0DF7A064}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\todoapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF556150-2618-4BDF-A3BF-329E0DF7A064}|TodoApi\\TodoApi.csproj|c:\\users\\erick\\downloads\\personal\\asp.net core mvc\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF556150-2618-4BDF-A3BF-329E0DF7A064}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF556150-2618-4BDF-A3BF-329E0DF7A064}|TodoApi\\TodoApi.csproj|c:\\users\\erick\\downloads\\personal\\asp.net core mvc\\todoapi\\todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF556150-2618-4BDF-A3BF-329E0DF7A064}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF556150-2618-4BDF-A3BF-329E0DF7A064}|TodoApi\\TodoApi.csproj|c:\\users\\erick\\downloads\\personal\\asp.net core mvc\\todoapi\\todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF556150-2618-4BDF-A3BF-329E0DF7A064}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoApi.http",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\Personal\\ASP.NET Core MVC\\TodoApi\\TodoApi\\TodoApi.http",
+              "RelativeDocumentMoniker": "TodoApi\\TodoApi.http",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\Personal\\ASP.NET Core MVC\\TodoApi\\TodoApi\\TodoApi.http*",
+              "RelativeToolTip": "TodoApi\\TodoApi.http*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-03-29T14:10:38.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\Personal\\ASP.NET Core MVC\\TodoApi\\TodoApi\\TodoItemsController.cs",
+              "RelativeDocumentMoniker": "TodoApi\\TodoItemsController.cs",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\Personal\\ASP.NET Core MVC\\TodoApi\\TodoApi\\TodoItemsController.cs*",
+              "RelativeToolTip": "TodoApi\\TodoItemsController.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T14:04:25.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\Personal\\ASP.NET Core MVC\\TodoApi\\TodoApi\\Program.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Program.cs",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\Personal\\ASP.NET Core MVC\\TodoApi\\TodoApi\\Program.cs",
+              "RelativeToolTip": "TodoApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T10:53:27.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoContext.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\Personal\\ASP.NET Core MVC\\TodoApi\\TodoApi\\Models\\TodoContext.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Models\\TodoContext.cs",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\Personal\\ASP.NET Core MVC\\TodoApi\\TodoApi\\Models\\TodoContext.cs",
+              "RelativeToolTip": "TodoApi\\Models\\TodoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T10:44:36.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\Personal\\ASP.NET Core MVC\\TodoApi\\TodoApi\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Models\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\Personal\\ASP.NET Core MVC\\TodoApi\\TodoApi\\Models\\TodoItem.cs",
+              "RelativeToolTip": "TodoApi\\Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T10:41:47.919Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
