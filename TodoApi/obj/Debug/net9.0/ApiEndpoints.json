@@ -1,6 +1,6 @@
 [
   {
-    "ContainingType": "TodoApi.TodoItemsController",
+    "ContainingType": "TodoApi.Controllers.TodoItemsController",
     "Method": "GetTodoItems",
     "RelativePath": "api/TodoItems",
     "HttpMethod": "GET",
@@ -20,7 +20,7 @@
     ]
   },
   {
-    "ContainingType": "TodoApi.TodoItemsController",
+    "ContainingType": "TodoApi.Controllers.TodoItemsController",
     "Method": "PostTodoItem",
     "RelativePath": "api/TodoItems",
     "HttpMethod": "POST",
@@ -46,7 +46,7 @@
     ]
   },
   {
-    "ContainingType": "TodoApi.TodoItemsController",
+    "ContainingType": "TodoApi.Controllers.TodoItemsController",
     "Method": "GetTodoItem",
     "RelativePath": "api/TodoItems/{id}",
     "HttpMethod": "GET",
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "ContainingType": "TodoApi.TodoItemsController",
+    "ContainingType": "TodoApi.Controllers.TodoItemsController",
     "Method": "PutTodoItem",
     "RelativePath": "api/TodoItems/{id}",
     "HttpMethod": "PUT",
@@ -93,7 +93,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "TodoApi.TodoItemsController",
+    "ContainingType": "TodoApi.Controllers.TodoItemsController",
     "Method": "DeleteTodoItem",
     "RelativePath": "api/TodoItems/{id}",
     "HttpMethod": "DELETE",

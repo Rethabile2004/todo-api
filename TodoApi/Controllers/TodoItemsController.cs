@@ -7,9 +7,9 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using TodoApi.Models;
 
-namespace TodoApi
+namespace TodoApi.Controllers
 {
-    [Route("api/[TodoItems]")]
+    [Route("api/[controller]")]
     [ApiController]
     public class TodoItemsController : ControllerBase
     {
@@ -80,8 +80,8 @@ namespace TodoApi
             _context.TodoItems.Add(todoItem);
             await _context.SaveChangesAsync();
 
-            return CreatedAtAction(nameof(GetTodoItem), new { id = todoItem.Id }, todoItem);
             //return CreatedAtAction("GetTodoItem", new { id = todoItem.Id }, todoItem);
+            return CreatedAtAction(nameof(GetTodoItem), new { id = todoItem.Id }, todoItem);
         }
 
         // DELETE: api/TodoItems/5
